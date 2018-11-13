@@ -3,7 +3,7 @@
 //  BalloonView
 //
 //  Created by teddy on 11/12/18.
-//  Copyright © 2018 merpay. All rights reserved.
+//  Copyright © 2018 merpay, Inc. All rights reserved.
 //
 
 import UIKit
